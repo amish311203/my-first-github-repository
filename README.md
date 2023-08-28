@@ -1,4 +1,4 @@
-This is my readme edit in local branch
+# This file was modified manually during conflict resolution
 # my-first-github-repository
 Here is my first Github repository. Let's get started with Github
 
