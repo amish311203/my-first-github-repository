@@ -1,3 +1,4 @@
+Edit in the feature-2 branch
 Another change in feature-2 branch
 This line was replaced in feature-2 branch
 This file was modified locally
